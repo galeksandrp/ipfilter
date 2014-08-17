@@ -76,7 +76,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>xrqMEB2gr7jkHEzSZc/3AEYefbA=</dsig:DigestValue>
+        <dsig:DigestValue>XTPW9J8+75jvK+dGv/hB4eImexs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -88,17 +88,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>d3ppJmKSmOpw/ICsV0UQT6xKYWw=</dsig:DigestValue>
+        <dsig:DigestValue>d0Uz/oi7KwQdVJq8jFpB5VrlgpA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="IPFilter.pdb" size="26112">
+  <file name="IPFilter.pdb" size="28160">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>jz9JW9aPRH61vMhUb5BgvaHiCaI=</dsig:DigestValue>
+      <dsig:DigestValue>4SjvNCUTQL+VXrMVox9CAuMg4TM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="IPFilter.UI.exe.config" size="122">
@@ -116,7 +116,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>3xqfBMaaBUmdCytcCsJgyZCxvnI=</dsig:DigestValue>
+      <dsig:DigestValue>n+Zwrwft9Zg2U26065E2758Gv20=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

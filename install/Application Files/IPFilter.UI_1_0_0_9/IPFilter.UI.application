@@ -8,17 +8,17 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://davidmoore.github.io/IP-Filter-Updater/IPFilter.UI.application" />
+    <deploymentProvider codebase="https://ipfilter.codeplex.com/releases/clickonce/IPFilter.UI.application" />
   </deployment>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\IPFilter.UI_1_0_0_9\IPFilter.UI.exe.manifest" size="6345">
+    <dependentAssembly dependencyType="install" codebase="Application Files\IPFilter.UI_1_0_0_9\IPFilter.UI.exe.manifest" size="6348">
       <assemblyIdentity name="IPFilter.UI.exe" version="1.0.0.9" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ePQCCxWZm//t2XEKk3nueZf2xKg=</dsig:DigestValue>
+        <dsig:DigestValue>f36Pd0fw3VAu2I7pC8oa6Wn7j5I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

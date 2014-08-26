@@ -3,7 +3,7 @@
   <asmv1:assemblyIdentity name="IPFilter.UI.exe" version="1.0.0.9" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="IPFilter.UI" version="1.0.0.9" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="IPFilter.UI" version="1.0.0.10" language="neutral" processorArchitecture="msil" />
     <commandLine file="IPFilter.UI.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -69,36 +69,36 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IPFilter.dll" size="10752">
-      <assemblyIdentity name="IPFilter" version="1.0.0.9" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IPFilter.dll" size="11264">
+      <assemblyIdentity name="IPFilter" version="1.0.0.10" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>hTyyBht2xpvhkNpeLxc/Ldr+bec=</dsig:DigestValue>
+        <dsig:DigestValue>XTPW9J8+75jvK+dGv/hB4eImexs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IPFilter.UI.exe" size="20992">
-      <assemblyIdentity name="IPFilter.UI" version="1.0.0.9" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IPFilter.UI.exe" size="22016">
+      <assemblyIdentity name="IPFilter.UI" version="1.0.0.10" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>QJBsozomuDznuk9d4sPOG27Gr0k=</dsig:DigestValue>
+        <dsig:DigestValue>3mMX+EcbtGSZUSAlZxa+eh4ZM7Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="IPFilter.pdb" size="26112">
+  <file name="IPFilter.pdb" size="28160">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>88L1a2s0gJ63/mwAmJkbmZVwmoY=</dsig:DigestValue>
+      <dsig:DigestValue>4SjvNCUTQL+VXrMVox9CAuMg4TM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="IPFilter.UI.exe.config" size="122">
@@ -110,13 +110,13 @@
       <dsig:DigestValue>9KA+JzlusaPz4TXe3oyukw98w6U=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="IPFilter.UI.pdb" size="40448">
+  <file name="IPFilter.UI.pdb" size="46592">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>7yzfGG+AYUwx4VOlvmjO3Jx8OpA=</dsig:DigestValue>
+      <dsig:DigestValue>cOjDsoXwrpMthHHoh7mEhckjZaA=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

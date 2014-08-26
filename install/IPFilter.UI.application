@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://davidmoore.github.io/IP-Filter-Updater/install/IPFilter.UI.application" />
+    <deploymentProvider codebase="https://davidmoore.github.io/ipfilter/install/IPFilter.UI.application" />
   </deployment>
   <dependency>
     <dependentAssembly dependencyType="install" codebase="Application Files\IPFilter.UI_1_0_0_10\IPFilter.UI.exe.manifest" size="6349">
@@ -18,7 +18,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>JF4RCk92W0olVtFd2uHy/KFy8Ns=</dsig:DigestValue>
+        <dsig:DigestValue>a3soFgyUUA4iONxoC/4lLbmip/g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -323,6 +323,16 @@ Full-Width Styles
   background: url('../images/icon_download.png') no-repeat 0% 90%;
 }
 
+#install {
+  padding: 10px 10px 10px 10px;
+  color: #fff;
+  background: #0090ff;
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
 .zip_download_link {
   display: block;
   float: right;

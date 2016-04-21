@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IPFilter.UI.exe" size="2167808">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IPFilter.UI.exe" size="2170368">
       <assemblyIdentity name="IPFilter.UI" version="2.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>va/q1xUqQDnE1RcpZtNxhzp7JbItyNWw4ueG0E1Vsno=</dsig:DigestValue>
+        <dsig:DigestValue>p5lW4yYb5oHY7YTJ75rnKCpdJZ78g97dqhd2L2bOu0s=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,13 +62,13 @@
       <dsig:DigestValue>/vJ02yfTvxXaA1lAa8BkJjt+QPdROZpSDAvZs84dh7k=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="IPFilter.UI.pdb" size="202240">
+  <file name="IPFilter.UI.pdb" size="204288">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>0K49WXiu8qCsejgZoImwkK4pkk/yOKFjd2I2bIEdPXY=</dsig:DigestValue>
+      <dsig:DigestValue>vuxQt7ZrFn52Dn7ERwFgbJ89nzMH/I/pmMTVYGz7R2A=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

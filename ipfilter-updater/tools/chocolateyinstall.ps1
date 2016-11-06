@@ -1,0 +1,1 @@
+﻿Install-ChocolateyPackage "$env:chocolateyPackageName" 'msi' "MSIFASTINSTALL=1 DISABLEROLLBACK=1 /qn /norestart /l*v `"$($env:TEMP)\$($packageName).$($env:chocolateyPackageVersion).MsiInstall.log`"" "https://davidmoore.github.io/ipfilter/install/IPFilter.msi"
